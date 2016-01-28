@@ -6,3 +6,7 @@ Para registrar a presença em determinado evento o aplicaitvo utiliza recursos p
 O projeto de pesquisa em questão tem como objetivo utilizar a tecnologia Near Field Communication (NFC) para o controle de presenças, confira o <a href="http://pt.slideshare.net/marcielribeirotorres/controle-de-presenas-utilizando-nfc" target="_blank">artigo</a> na íntegra.
 O conteúdo desse repositório faz parte de um conjunto de três projetos que foram desenvolvidos para o Trabalho de Conclusão de Curso de Ciência da Computação (bacharelado com ênfase em desenvolvimento de software - Centro Universitário La Salle - Canoas, RS). 
  Veja o <a href="https://www.youtube.com/watch?v=86peaW43-_I" target="_blank">vídeo demonstrativo</a> do projeto.
+
+<h3>Escopo do Projeto</h3>
+<img src="https://s3.amazonaws.com/nfcproject/images/Projeto-NFC-Marciel-Torres.jpg" border="0">
+ 
